@@ -1,7 +1,7 @@
 # Hi, Sol here 👋🏻
 
 
-| :star: | Don't forget to give a `Follow` for good luck. |
+| :star: | Don't forget to `Follow` for good luck. |
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
 
 
