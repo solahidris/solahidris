@@ -1,4 +1,4 @@
-# Yo, Sol here 👋🏻
+# Hi, Sol here 👋🏻
 
 
 | :star: | Don't forget to give a `Follow` for good luck. |
