@@ -5,5 +5,5 @@
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
 
 
-![](https://raw.githubusercontent.com/solahidris/solahidris/master/profile-summary-card-output/react/3-stats.svg)
 [![GitHub Streak](https://streak-stats.demolab.com?user=solahidris&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solahidris&hide_progress=true&theme=dark)
