@@ -1,5 +1,5 @@
 Hi, Sol here 👋🏻
 
 
-| :star: | Don't forget to `Follow` for good luck. |
+| :star: | `Follow` for maximum good luck. |
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
